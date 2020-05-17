@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-md-4 p-0 d-flex">
-        <a href="http://<?php echo $GLOBALS['HOST']; ?>/webapp/admin" class="button container p-3 d-flex justify-content-center">
+        <a href="http://<?php echo $GLOBALS['HOST']; ?>/baitap3/admin" class="button container p-3 d-flex justify-content-center">
 
             <div class="row">
                 <div class="col align-self-center">
@@ -13,7 +13,7 @@
         </a>
     </div>
     <div class="col-md-4 p-0 d-flex">
-        <a href="http://<?php echo $GLOBALS['HOST']; ?>/webapp/admin/default/unsent" class="button container p-3 d-flex justify-content-center ">
+        <a href="http://<?php echo $GLOBALS['HOST']; ?>/baitap3/admin/default/unsent" class="button container p-3 d-flex justify-content-center ">
             <div class="row">
                 <div class="col align-self-center">
                     <span class="material-icons">airport_shuttle</span>
@@ -39,7 +39,7 @@
 
     </div>
     <div class="col-md-4 p-0 d-flex">
-        <a href="http://<?php echo $GLOBALS['HOST']; ?>/webapp/admin/default/yetpay" class="button container p-3 d-flex justify-content-center ">
+        <a href="http://<?php echo $GLOBALS['HOST']; ?>/baitap3/admin/default/yetpay" class="button container p-3 d-flex justify-content-center ">
 
             <div class="row">
                 <div class="col align-self-center">
